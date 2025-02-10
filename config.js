@@ -1,0 +1,1 @@
+const MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoibW9yZXVsYSIsImEiOiJjbTQwbjQwcWcwMnNwMmtyMmI1M3pjdGp4In0.ItDcoelEymlI7QoLyI4paw";
